@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family=Cantata+One|Imprima');
+html,body{
+            background-color: #bdffeb;
+	        line-height: 1.6;
+            font-family: 'Imprima', 'Tahoma', sans-serif;
+        
+        }
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Cantata One', 'Palatino', serif;
+	
+}
+p,a {
+	font-family: 'Imprima', 'Tahoma', sans-serif;
+}
+a {
+	color:#1a6de5;
+}
+a:hover {
+	color:#8918ff;
+}
+
+.navbar-default {
+	background-color: #bdffeb;
+	color:#030217;
+		
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a{
+	color:#030217;
+}
+
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-nav>li>a:hover{
+	color:#e5fff7;
+	background-color:#8918ff;
+}
+
+.font-color  {
+	color:#030217;
+}
+
+.navbarfont{
+	color:#030217;
+}
+font {
+	color:#030217;
+}
+.button {
+	
+	background-color: #8918ff;
+}
+.button:hover {
+	color:#030217;
+	background-color: #e5fff7;
+}
+.button span {
+	color:#e5fff7;
+}
+.button:hover span {
+	color:#030217;
+	}
+.glyphicon-plus hover {
+	color:#030217;
+}
+.small-size {
+	font-size: 1.328rem;
+}
+.middle-size {
+	font-size:1.819 rem;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #030217;
+}
+.navbar-toggle:hover .icon-bar{
+	background-color: #10daff;
+	
+}
+.navbar-default .navbar-header .navbar-toggle:hover,.navbar-default .navbar-header .navbar-toggle:focus {
+	background-color: #8918ff;
+}
+.bg-green {
+	background-color: #bdffeb;
+}
+.bg-blue {
+	background-color:  #10daff;
+}
+.bg-purple {
+	background-color: #8918ff;
+}
+
+
+.nav2 {
+	color:#030217;
+	font-size: 2.0rem;
+
+}
+.fa-twitter:hover, .fa-skype:hover {
+	color:  #1a6de5;
+}
+.fa-facebook:hover {
+	color: #8918ff;
+}
+.fa-google-plus:hover {
+	color: #10daff;
+}
+.imgCenter {
+	margin:auto;
+}
+.img-margin {
+	margin-top:5px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+.img-margin2 {
+	margin-top:5px;
+	margin-bottom: 15px;
+}
+.clearfix {
+	content: "";
+	display: block;
+	clear:both;
+}
+.foot-margin {
+	margin-top:40px;
+	
+}
+.inner-margin {
+	margin-top:20px;
+}
+hr {
+	margin-top:25px;
+	border-color:#10daff;
+}
+.inner-margin1 {
+	margin-top:45px;
+	margin-bottom:20px;
+}
+span {
+	color:black;
+}
+.iconic-social-twitter:hover {
+	background-color:#10daff;
+	color: #e5fff7;
+}
+.iconic-social-facebook:hover {
+	color: #8918ff;
+	background-color:#e5fff7;
+}
+.iconic-social-tumblr:hover {
+	color: #8918ff;
+	background-color:#e5fff7;
+}
+.iconic-social-google-plus:hover {
+	color: #10daff;
+	background-color:#e5fff7;
+}
+.well {
+	background-color: #10daff;
+	border-radius: 25px;
+}
+.jumbotron {
+	background-color: #10daff;
+	
+}
+

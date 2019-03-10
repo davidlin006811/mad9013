@@ -1,0 +1,15 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webstart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Lin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "*",
+    "express": "*"
+  }
+}
